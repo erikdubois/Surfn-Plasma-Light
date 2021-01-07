@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -9,7 +9,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g transform="translate(-181 -257)">
-  <path transform="translate(181 257)" d="m8 0-2.268 3.434-3.465-1.166 1.166 3.465-3.434 2.268 3.434 2.268-1.166 3.465 3.465-1.166 2.268 3.434 2.268-3.434 3.465 1.166-1.166-3.465 3.434-2.268-3.434-2.268 1.166-3.465-3.465 1.166-2.268-3.434zm0 4.5 3 3 0.023 1.508-1.523-8e-3 -0.5-0.5v2.5h-2v-2.5l-0.699 0.5-1.324 8e-3 0.023-1.508 3-3z" fill="#6b6b6b" fill-rule="evenodd"/>
+ <g transform="translate(-181 -249)">
+  <path transform="translate(181 249)" d="m12 1-3.117 4.721-4.766-1.604 1.604 4.766-4.721 3.117 4.721 3.117-1.604 4.766 4.766-1.604 3.117 4.721 3.117-4.721 4.766 1.604-1.604-4.766 4.721-3.117-4.721-3.117 1.604-4.766-4.766 1.604-3.117-4.721zm0 6.5 4 4v1.5h-1.5l-1.5-1.5v4.5h-2v-4.672l-1.5 1.672h-1.5v-1.5l4-4z" fill="#606060" fill-rule="evenodd"/>
  </g>
 </svg>
