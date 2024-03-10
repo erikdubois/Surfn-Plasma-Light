@@ -5,7 +5,7 @@ Comment=Surfn Plasma Light - depends on breeze, breeze and Surfn
 
 DisplayDepth=32
 
-Inherits=Surfn-Plasma-Dark,breeze,hicolor
+Inherits=breeze,hicolor
 
 Example=folder
 
